@@ -3,3 +3,4 @@
 <li class='nav-item'><a class='nav-link' href='{{ backpack_url('page') }}'><i class='nav-icon la la-file-o'></i> <span>Pages</span></a></li>
 <li class='nav-item'><a class='nav-link' href='{{ backpack_url('eveniment') }}'><i class='nav-icon la la-file-o'></i> <span>Pages</span></a></li>
 <li class='nav-item'><a class='nav-link' href='{{ backpack_url('evenimente') }}'><i class='nav-icon la la-file-o'></i> <span>Evenimente</span></a></li>
+<li class='nav-item'><a class='nav-link' href='{{ backpack_url('log') }}'><i class='nav-icon la la-terminal'></i> Logs</a></li>
